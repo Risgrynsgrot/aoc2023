@@ -1,0 +1,6155 @@
+Game 1: 7 green, 4 blue, 3 red; 4 blue, 10 red, 1 green; 1 blue, 9 red
+
+game: Game 1
+game:  7 green, 4 blue, 3 red; 4 blue, 10 red, 1 green; 1 blue, 9 red
+
+round:  7 green, 4 blue, 3 red
+cubes:  7 green 0
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  4 blue, 10 red, 1 green
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  10 red 2
+value: 10
+active value: 10
+value: red
+comparing red
+it's red! 10
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+round:  1 blue, 9 red
+
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  9 red
+ 2
+value: 9
+active value: 9
+value: red
+
+comparing red
+
+it's red! 9
+valid round
+Game 2: 2 red, 4 blue, 3 green; 5 green, 3 red, 1 blue; 3 green, 5 blue, 3 red
+
+game: Game 2
+game:  2 red, 4 blue, 3 green; 5 green, 3 red, 1 blue; 3 green, 5 blue, 3 red
+
+round:  2 red, 4 blue, 3 green
+cubes:  2 red 0
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+round:  5 green, 3 red, 1 blue
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  3 green, 5 blue, 3 red
+
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  3 red
+ 2
+value: 3
+active value: 3
+value: red
+
+comparing red
+
+it's red! 3
+valid round
+Game 3: 12 red, 1 blue; 6 red, 2 green, 3 blue; 2 blue, 5 red, 3 green
+
+game: Game 3
+game:  12 red, 1 blue; 6 red, 2 green, 3 blue; 2 blue, 5 red, 3 green
+
+round:  12 red, 1 blue
+cubes:  12 red 0
+value: 12
+active value: 12
+value: red
+comparing red
+it's red! 12
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  6 red, 2 green, 3 blue
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  2 blue, 5 red, 3 green
+
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  3 green
+ 2
+value: 3
+active value: 3
+value: green
+
+comparing green
+
+it's green! 3 
+valid round
+Game 4: 3 green, 1 red, 3 blue; 1 red; 2 green, 1 red, 1 blue; 3 green, 1 blue; 2 blue; 2 green, 4 blue
+
+game: Game 4
+game:  3 green, 1 red, 3 blue; 1 red; 2 green, 1 red, 1 blue; 3 green, 1 blue; 2 blue; 2 green, 4 blue
+
+round:  3 green, 1 red, 3 blue
+cubes:  3 green 0
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  1 red
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  2 green, 1 red, 1 blue
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  3 green, 1 blue
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  2 blue
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  2 green, 4 blue
+
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  4 blue
+ 2
+value: 4
+active value: 4
+value: blue
+
+comparing blue
+
+it's blue! 4
+valid round
+Game 5: 3 blue, 3 red, 8 green; 5 blue, 1 red; 1 green, 19 blue, 3 red; 1 red, 5 green, 3 blue; 4 green, 20 blue, 4 red; 20 blue, 4 green
+
+game: Game 5
+game:  3 blue, 3 red, 8 green; 5 blue, 1 red; 1 green, 19 blue, 3 red; 1 red, 5 green, 3 blue; 4 green, 20 blue, 4 red; 20 blue, 4 green
+
+round:  3 blue, 3 red, 8 green
+cubes:  3 blue 0
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+round:  5 blue, 1 red
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  1 green, 19 blue, 3 red
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  19 blue 2
+value: 19
+active value: 19
+value: blue
+comparing blue
+it's blue! 19
+invalid round
+Game 6: 7 green, 6 blue, 1 red; 3 blue, 5 green, 3 red; 9 blue, 3 red, 6 green; 8 blue, 11 green, 3 red; 2 blue, 1 red; 7 green, 4 blue, 1 red
+
+game: Game 6
+game:  7 green, 6 blue, 1 red; 3 blue, 5 green, 3 red; 9 blue, 3 red, 6 green; 8 blue, 11 green, 3 red; 2 blue, 1 red; 7 green, 4 blue, 1 red
+
+round:  7 green, 6 blue, 1 red
+cubes:  7 green 0
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  3 blue, 5 green, 3 red
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  9 blue, 3 red, 6 green
+cubes:  9 blue 2
+value: 9
+active value: 9
+value: blue
+comparing blue
+it's blue! 9
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+round:  8 blue, 11 green, 3 red
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  11 green 2
+value: 11
+active value: 11
+value: green
+comparing green
+it's green! 11 
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  2 blue, 1 red
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  7 green, 4 blue, 1 red
+
+cubes:  7 green 2
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  1 red
+ 2
+value: 1
+active value: 1
+value: red
+
+comparing red
+
+it's red! 1
+valid round
+Game 7: 5 green, 1 blue; 2 green, 2 blue; 1 blue, 1 red; 5 blue, 2 green; 3 green
+
+game: Game 7
+game:  5 green, 1 blue; 2 green, 2 blue; 1 blue, 1 red; 5 blue, 2 green; 3 green
+
+round:  5 green, 1 blue
+cubes:  5 green 0
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  2 green, 2 blue
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  1 blue, 1 red
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  5 blue, 2 green
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+round:  3 green
+
+cubes:  3 green
+ 2
+value: 3
+active value: 3
+value: green
+
+comparing green
+
+it's green! 3 
+valid round
+Game 8: 5 blue, 5 red, 10 green; 6 green, 1 blue, 1 red; 5 red, 2 blue, 16 green; 2 blue, 14 green, 9 red; 9 red, 3 green, 7 blue; 8 red, 4 blue, 10 green
+
+game: Game 8
+game:  5 blue, 5 red, 10 green; 6 green, 1 blue, 1 red; 5 red, 2 blue, 16 green; 2 blue, 14 green, 9 red; 9 red, 3 green, 7 blue; 8 red, 4 blue, 10 green
+
+round:  5 blue, 5 red, 10 green
+cubes:  5 blue 0
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  10 green 2
+value: 10
+active value: 10
+value: green
+comparing green
+it's green! 10 
+round:  6 green, 1 blue, 1 red
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  5 red, 2 blue, 16 green
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  16 green 2
+value: 16
+active value: 16
+value: green
+comparing green
+it's green! 16 
+invalid round
+Game 9: 1 red, 1 blue, 7 green; 4 red, 6 green, 2 blue; 6 green, 14 blue, 3 red
+
+game: Game 9
+game:  1 red, 1 blue, 7 green; 4 red, 6 green, 2 blue; 6 green, 14 blue, 3 red
+
+round:  1 red, 1 blue, 7 green
+cubes:  1 red 0
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  7 green 2
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+round:  4 red, 6 green, 2 blue
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  6 green, 14 blue, 3 red
+
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  14 blue 2
+value: 14
+active value: 14
+value: blue
+comparing blue
+it's blue! 14
+cubes:  3 red
+ 2
+value: 3
+active value: 3
+value: red
+
+comparing red
+
+it's red! 3
+valid round
+Game 10: 1 red, 16 green, 3 blue; 1 red, 3 blue; 6 green; 4 green, 2 blue, 1 red
+
+game: Game 10
+game:  1 red, 16 green, 3 blue; 1 red, 3 blue; 6 green; 4 green, 2 blue, 1 red
+
+round:  1 red, 16 green, 3 blue
+cubes:  1 red 0
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  16 green 2
+value: 16
+active value: 16
+value: green
+comparing green
+it's green! 16 
+invalid round
+Game 11: 5 red, 2 blue; 14 blue, 8 red, 10 green; 8 green, 1 red, 15 blue; 2 green, 5 red, 11 blue; 8 red, 11 blue, 4 green
+
+game: Game 11
+game:  5 red, 2 blue; 14 blue, 8 red, 10 green; 8 green, 1 red, 15 blue; 2 green, 5 red, 11 blue; 8 red, 11 blue, 4 green
+
+round:  5 red, 2 blue
+cubes:  5 red 0
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  14 blue, 8 red, 10 green
+cubes:  14 blue 2
+value: 14
+active value: 14
+value: blue
+comparing blue
+it's blue! 14
+cubes:  8 red 2
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+cubes:  10 green 2
+value: 10
+active value: 10
+value: green
+comparing green
+it's green! 10 
+round:  8 green, 1 red, 15 blue
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  15 blue 2
+value: 15
+active value: 15
+value: blue
+comparing blue
+it's blue! 15
+invalid round
+Game 12: 5 green, 8 blue, 4 red; 15 green, 8 blue, 8 red; 13 red, 1 blue; 6 blue, 7 green, 14 red; 9 red
+
+game: Game 12
+game:  5 green, 8 blue, 4 red; 15 green, 8 blue, 8 red; 13 red, 1 blue; 6 blue, 7 green, 14 red; 9 red
+
+round:  5 green, 8 blue, 4 red
+cubes:  5 green 0
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+round:  15 green, 8 blue, 8 red
+cubes:  15 green 2
+value: 15
+active value: 15
+value: green
+comparing green
+it's green! 15 
+invalid round
+Game 13: 7 blue, 5 red; 3 green, 10 blue; 5 blue, 2 green, 5 red; 3 blue, 1 green, 5 red; 6 blue, 4 red, 6 green; 5 red, 2 green, 6 blue
+
+game: Game 13
+game:  7 blue, 5 red; 3 green, 10 blue; 5 blue, 2 green, 5 red; 3 blue, 1 green, 5 red; 6 blue, 4 red, 6 green; 5 red, 2 green, 6 blue
+
+round:  7 blue, 5 red
+cubes:  7 blue 0
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+round:  3 green, 10 blue
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  10 blue 2
+value: 10
+active value: 10
+value: blue
+comparing blue
+it's blue! 10
+round:  5 blue, 2 green, 5 red
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+round:  3 blue, 1 green, 5 red
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+round:  6 blue, 4 red, 6 green
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+round:  5 red, 2 green, 6 blue
+
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  6 blue
+ 2
+value: 6
+active value: 6
+value: blue
+
+comparing blue
+
+it's blue! 6
+valid round
+Game 14: 5 red, 1 blue, 5 green; 6 blue, 13 green, 4 red; 7 blue, 4 red, 1 green; 6 blue, 5 red; 2 red, 7 blue, 2 green
+
+game: Game 14
+game:  5 red, 1 blue, 5 green; 6 blue, 13 green, 4 red; 7 blue, 4 red, 1 green; 6 blue, 5 red; 2 red, 7 blue, 2 green
+
+round:  5 red, 1 blue, 5 green
+cubes:  5 red 0
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+round:  6 blue, 13 green, 4 red
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+cubes:  13 green 2
+value: 13
+active value: 13
+value: green
+comparing green
+it's green! 13 
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+round:  7 blue, 4 red, 1 green
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+round:  6 blue, 5 red
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+round:  2 red, 7 blue, 2 green
+
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  2 green
+ 2
+value: 2
+active value: 2
+value: green
+
+comparing green
+
+it's green! 2 
+valid round
+Game 15: 8 red, 16 green; 10 green, 1 blue; 16 green, 7 blue, 3 red; 13 red, 7 blue, 8 green; 4 red, 2 green, 8 blue
+
+game: Game 15
+game:  8 red, 16 green; 10 green, 1 blue; 16 green, 7 blue, 3 red; 13 red, 7 blue, 8 green; 4 red, 2 green, 8 blue
+
+round:  8 red, 16 green
+cubes:  8 red 0
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+cubes:  16 green 2
+value: 16
+active value: 16
+value: green
+comparing green
+it's green! 16 
+invalid round
+Game 16: 1 red, 1 blue, 5 green; 5 green, 2 red; 2 green, 1 red; 3 red, 4 green
+
+game: Game 16
+game:  1 red, 1 blue, 5 green; 5 green, 2 red; 2 green, 1 red; 3 red, 4 green
+
+round:  1 red, 1 blue, 5 green
+cubes:  1 red 0
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+round:  5 green, 2 red
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+round:  2 green, 1 red
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  3 red, 4 green
+
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  4 green
+ 2
+value: 4
+active value: 4
+value: green
+
+comparing green
+
+it's green! 4 
+valid round
+Game 17: 3 green, 7 blue, 5 red; 2 red, 1 blue; 8 blue, 1 red
+
+game: Game 17
+game:  3 green, 7 blue, 5 red; 2 red, 1 blue; 8 blue, 1 red
+
+round:  3 green, 7 blue, 5 red
+cubes:  3 green 0
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+round:  2 red, 1 blue
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  8 blue, 1 red
+
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  1 red
+ 2
+value: 1
+active value: 1
+value: red
+
+comparing red
+
+it's red! 1
+valid round
+Game 18: 9 green, 6 blue, 3 red; 3 red, 15 green, 5 blue; 7 green, 3 red, 3 blue
+
+game: Game 18
+game:  9 green, 6 blue, 3 red; 3 red, 15 green, 5 blue; 7 green, 3 red, 3 blue
+
+round:  9 green, 6 blue, 3 red
+cubes:  9 green 0
+value: 9
+active value: 9
+value: green
+comparing green
+it's green! 9 
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  3 red, 15 green, 5 blue
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  15 green 2
+value: 15
+active value: 15
+value: green
+comparing green
+it's green! 15 
+invalid round
+Game 19: 4 green, 3 red, 7 blue; 4 blue, 6 red, 4 green; 6 red, 5 green, 1 blue; 6 blue, 4 green, 3 red; 5 green, 5 red, 2 blue
+
+game: Game 19
+game:  4 green, 3 red, 7 blue; 4 blue, 6 red, 4 green; 6 red, 5 green, 1 blue; 6 blue, 4 green, 3 red; 5 green, 5 red, 2 blue
+
+round:  4 green, 3 red, 7 blue
+cubes:  4 green 0
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+round:  4 blue, 6 red, 4 green
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+round:  6 red, 5 green, 1 blue
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  6 blue, 4 green, 3 red
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  5 green, 5 red, 2 blue
+
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  2 blue
+ 2
+value: 2
+active value: 2
+value: blue
+
+comparing blue
+
+it's blue! 2
+valid round
+Game 20: 3 green, 5 blue, 1 red; 1 red, 1 blue; 1 red, 6 blue; 1 green, 4 blue
+
+game: Game 20
+game:  3 green, 5 blue, 1 red; 1 red, 1 blue; 1 red, 6 blue; 1 green, 4 blue
+
+round:  3 green, 5 blue, 1 red
+cubes:  3 green 0
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  1 red, 1 blue
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  1 red, 6 blue
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+round:  1 green, 4 blue
+
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  4 blue
+ 2
+value: 4
+active value: 4
+value: blue
+
+comparing blue
+
+it's blue! 4
+valid round
+Game 21: 2 green, 1 blue, 3 red; 16 green, 1 blue, 4 red; 11 green, 2 red, 1 blue; 6 green, 1 blue; 10 green, 1 red, 1 blue
+
+game: Game 21
+game:  2 green, 1 blue, 3 red; 16 green, 1 blue, 4 red; 11 green, 2 red, 1 blue; 6 green, 1 blue; 10 green, 1 red, 1 blue
+
+round:  2 green, 1 blue, 3 red
+cubes:  2 green 0
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  16 green, 1 blue, 4 red
+cubes:  16 green 2
+value: 16
+active value: 16
+value: green
+comparing green
+it's green! 16 
+invalid round
+Game 22: 1 blue, 2 green, 4 red; 3 red, 4 green; 1 blue, 3 red, 10 green; 7 green, 1 blue
+
+game: Game 22
+game:  1 blue, 2 green, 4 red; 3 red, 4 green; 1 blue, 3 red, 10 green; 7 green, 1 blue
+
+round:  1 blue, 2 green, 4 red
+cubes:  1 blue 0
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+round:  3 red, 4 green
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+round:  1 blue, 3 red, 10 green
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  10 green 2
+value: 10
+active value: 10
+value: green
+comparing green
+it's green! 10 
+round:  7 green, 1 blue
+
+cubes:  7 green 2
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  1 blue
+ 2
+value: 1
+active value: 1
+value: blue
+
+comparing blue
+
+it's blue! 1
+valid round
+Game 23: 2 red, 14 blue; 2 red, 14 blue; 1 red, 14 blue, 1 green; 1 red, 6 blue; 13 blue, 1 green
+
+game: Game 23
+game:  2 red, 14 blue; 2 red, 14 blue; 1 red, 14 blue, 1 green; 1 red, 6 blue; 13 blue, 1 green
+
+round:  2 red, 14 blue
+cubes:  2 red 0
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  14 blue 2
+value: 14
+active value: 14
+value: blue
+comparing blue
+it's blue! 14
+round:  2 red, 14 blue
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  14 blue 2
+value: 14
+active value: 14
+value: blue
+comparing blue
+it's blue! 14
+round:  1 red, 14 blue, 1 green
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  14 blue 2
+value: 14
+active value: 14
+value: blue
+comparing blue
+it's blue! 14
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+round:  1 red, 6 blue
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+round:  13 blue, 1 green
+
+cubes:  13 blue 2
+value: 13
+active value: 13
+value: blue
+comparing blue
+it's blue! 13
+cubes:  1 green
+ 2
+value: 1
+active value: 1
+value: green
+
+comparing green
+
+it's green! 1 
+valid round
+Game 24: 3 green, 7 blue, 3 red; 4 green, 2 blue; 12 blue, 8 red, 4 green; 10 blue, 9 red, 1 green; 13 blue, 4 red; 12 blue, 9 red, 2 green
+
+game: Game 24
+game:  3 green, 7 blue, 3 red; 4 green, 2 blue; 12 blue, 8 red, 4 green; 10 blue, 9 red, 1 green; 13 blue, 4 red; 12 blue, 9 red, 2 green
+
+round:  3 green, 7 blue, 3 red
+cubes:  3 green 0
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  4 green, 2 blue
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  12 blue, 8 red, 4 green
+cubes:  12 blue 2
+value: 12
+active value: 12
+value: blue
+comparing blue
+it's blue! 12
+cubes:  8 red 2
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+round:  10 blue, 9 red, 1 green
+cubes:  10 blue 2
+value: 10
+active value: 10
+value: blue
+comparing blue
+it's blue! 10
+cubes:  9 red 2
+value: 9
+active value: 9
+value: red
+comparing red
+it's red! 9
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+round:  13 blue, 4 red
+cubes:  13 blue 2
+value: 13
+active value: 13
+value: blue
+comparing blue
+it's blue! 13
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+round:  12 blue, 9 red, 2 green
+
+cubes:  12 blue 2
+value: 12
+active value: 12
+value: blue
+comparing blue
+it's blue! 12
+cubes:  9 red 2
+value: 9
+active value: 9
+value: red
+comparing red
+it's red! 9
+cubes:  2 green
+ 2
+value: 2
+active value: 2
+value: green
+
+comparing green
+
+it's green! 2 
+valid round
+Game 25: 9 green, 11 red; 14 green, 3 red, 1 blue; 8 red, 7 green; 10 red, 8 green, 1 blue; 6 red, 11 green, 1 blue
+
+game: Game 25
+game:  9 green, 11 red; 14 green, 3 red, 1 blue; 8 red, 7 green; 10 red, 8 green, 1 blue; 6 red, 11 green, 1 blue
+
+round:  9 green, 11 red
+cubes:  9 green 0
+value: 9
+active value: 9
+value: green
+comparing green
+it's green! 9 
+cubes:  11 red 2
+value: 11
+active value: 11
+value: red
+comparing red
+it's red! 11
+round:  14 green, 3 red, 1 blue
+cubes:  14 green 2
+value: 14
+active value: 14
+value: green
+comparing green
+it's green! 14 
+invalid round
+Game 26: 10 blue, 6 red, 11 green; 9 red, 2 green, 10 blue; 5 red; 9 red, 8 blue, 7 green; 13 green, 10 red, 1 blue
+
+game: Game 26
+game:  10 blue, 6 red, 11 green; 9 red, 2 green, 10 blue; 5 red; 9 red, 8 blue, 7 green; 13 green, 10 red, 1 blue
+
+round:  10 blue, 6 red, 11 green
+cubes:  10 blue 0
+value: 10
+active value: 10
+value: blue
+comparing blue
+it's blue! 10
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  11 green 2
+value: 11
+active value: 11
+value: green
+comparing green
+it's green! 11 
+round:  9 red, 2 green, 10 blue
+cubes:  9 red 2
+value: 9
+active value: 9
+value: red
+comparing red
+it's red! 9
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  10 blue 2
+value: 10
+active value: 10
+value: blue
+comparing blue
+it's blue! 10
+round:  5 red
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+round:  9 red, 8 blue, 7 green
+cubes:  9 red 2
+value: 9
+active value: 9
+value: red
+comparing red
+it's red! 9
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  7 green 2
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+round:  13 green, 10 red, 1 blue
+
+cubes:  13 green 2
+value: 13
+active value: 13
+value: green
+comparing green
+it's green! 13 
+cubes:  10 red 2
+value: 10
+active value: 10
+value: red
+comparing red
+it's red! 10
+cubes:  1 blue
+ 2
+value: 1
+active value: 1
+value: blue
+
+comparing blue
+
+it's blue! 1
+valid round
+Game 27: 3 blue, 1 green; 10 green, 1 blue; 8 red, 6 green, 6 blue
+
+game: Game 27
+game:  3 blue, 1 green; 10 green, 1 blue; 8 red, 6 green, 6 blue
+
+round:  3 blue, 1 green
+cubes:  3 blue 0
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+round:  10 green, 1 blue
+cubes:  10 green 2
+value: 10
+active value: 10
+value: green
+comparing green
+it's green! 10 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  8 red, 6 green, 6 blue
+
+cubes:  8 red 2
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  6 blue
+ 2
+value: 6
+active value: 6
+value: blue
+
+comparing blue
+
+it's blue! 6
+valid round
+Game 28: 10 blue, 2 red, 13 green; 2 blue, 2 red, 6 green; 10 blue; 4 red, 4 blue, 11 green; 3 green, 2 red, 6 blue; 14 green, 2 red, 2 blue
+
+game: Game 28
+game:  10 blue, 2 red, 13 green; 2 blue, 2 red, 6 green; 10 blue; 4 red, 4 blue, 11 green; 3 green, 2 red, 6 blue; 14 green, 2 red, 2 blue
+
+round:  10 blue, 2 red, 13 green
+cubes:  10 blue 0
+value: 10
+active value: 10
+value: blue
+comparing blue
+it's blue! 10
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  13 green 2
+value: 13
+active value: 13
+value: green
+comparing green
+it's green! 13 
+round:  2 blue, 2 red, 6 green
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+round:  10 blue
+cubes:  10 blue 2
+value: 10
+active value: 10
+value: blue
+comparing blue
+it's blue! 10
+round:  4 red, 4 blue, 11 green
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  11 green 2
+value: 11
+active value: 11
+value: green
+comparing green
+it's green! 11 
+round:  3 green, 2 red, 6 blue
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+round:  14 green, 2 red, 2 blue
+
+cubes:  14 green 2
+value: 14
+active value: 14
+value: green
+comparing green
+it's green! 14 
+invalid round
+Game 29: 8 blue, 5 red, 6 green; 1 green, 4 blue, 15 red; 8 blue, 14 red, 3 green; 9 blue, 4 red, 5 green; 3 red, 3 green, 4 blue
+
+game: Game 29
+game:  8 blue, 5 red, 6 green; 1 green, 4 blue, 15 red; 8 blue, 14 red, 3 green; 9 blue, 4 red, 5 green; 3 red, 3 green, 4 blue
+
+round:  8 blue, 5 red, 6 green
+cubes:  8 blue 0
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+round:  1 green, 4 blue, 15 red
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  15 red 2
+value: 15
+active value: 15
+value: red
+comparing red
+it's red! 15
+invalid round
+Game 30: 19 green, 14 blue, 2 red; 2 red, 8 green, 7 blue; 4 blue, 1 red, 13 green; 10 blue, 3 green; 8 blue, 2 red
+
+game: Game 30
+game:  19 green, 14 blue, 2 red; 2 red, 8 green, 7 blue; 4 blue, 1 red, 13 green; 10 blue, 3 green; 8 blue, 2 red
+
+round:  19 green, 14 blue, 2 red
+cubes:  19 green 0
+value: 19
+active value: 19
+value: green
+comparing green
+it's green! 19 
+invalid round
+Game 31: 12 green, 5 blue, 3 red; 15 blue, 11 green, 6 red; 6 green, 6 red; 4 green, 6 blue, 10 red
+
+game: Game 31
+game:  12 green, 5 blue, 3 red; 15 blue, 11 green, 6 red; 6 green, 6 red; 4 green, 6 blue, 10 red
+
+round:  12 green, 5 blue, 3 red
+cubes:  12 green 0
+value: 12
+active value: 12
+value: green
+comparing green
+it's green! 12 
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  15 blue, 11 green, 6 red
+cubes:  15 blue 2
+value: 15
+active value: 15
+value: blue
+comparing blue
+it's blue! 15
+invalid round
+Game 32: 7 red, 2 green, 3 blue; 9 red, 1 green; 2 green, 5 red, 1 blue; 12 red; 14 red, 4 blue
+
+game: Game 32
+game:  7 red, 2 green, 3 blue; 9 red, 1 green; 2 green, 5 red, 1 blue; 12 red; 14 red, 4 blue
+
+round:  7 red, 2 green, 3 blue
+cubes:  7 red 0
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  9 red, 1 green
+cubes:  9 red 2
+value: 9
+active value: 9
+value: red
+comparing red
+it's red! 9
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+round:  2 green, 5 red, 1 blue
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  12 red
+cubes:  12 red 2
+value: 12
+active value: 12
+value: red
+comparing red
+it's red! 12
+round:  14 red, 4 blue
+
+cubes:  14 red 2
+value: 14
+active value: 14
+value: red
+comparing red
+it's red! 14
+invalid round
+Game 33: 9 red, 4 green, 6 blue; 4 red, 10 green; 16 red, 4 green, 4 blue; 15 blue, 12 red
+
+game: Game 33
+game:  9 red, 4 green, 6 blue; 4 red, 10 green; 16 red, 4 green, 4 blue; 15 blue, 12 red
+
+round:  9 red, 4 green, 6 blue
+cubes:  9 red 0
+value: 9
+active value: 9
+value: red
+comparing red
+it's red! 9
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+round:  4 red, 10 green
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  10 green 2
+value: 10
+active value: 10
+value: green
+comparing green
+it's green! 10 
+round:  16 red, 4 green, 4 blue
+cubes:  16 red 2
+value: 16
+active value: 16
+value: red
+comparing red
+it's red! 16
+invalid round
+Game 34: 5 green, 1 blue; 18 red, 1 green, 1 blue; 1 blue, 9 green, 3 red; 6 green, 11 red
+
+game: Game 34
+game:  5 green, 1 blue; 18 red, 1 green, 1 blue; 1 blue, 9 green, 3 red; 6 green, 11 red
+
+round:  5 green, 1 blue
+cubes:  5 green 0
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  18 red, 1 green, 1 blue
+cubes:  18 red 2
+value: 18
+active value: 18
+value: red
+comparing red
+it's red! 18
+invalid round
+Game 35: 2 blue, 19 green, 6 red; 16 green, 1 red, 1 blue; 1 green, 2 blue, 5 red; 8 green, 3 blue, 13 red; 11 red, 10 green, 4 blue
+
+game: Game 35
+game:  2 blue, 19 green, 6 red; 16 green, 1 red, 1 blue; 1 green, 2 blue, 5 red; 8 green, 3 blue, 13 red; 11 red, 10 green, 4 blue
+
+round:  2 blue, 19 green, 6 red
+cubes:  2 blue 0
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  19 green 2
+value: 19
+active value: 19
+value: green
+comparing green
+it's green! 19 
+invalid round
+Game 36: 17 green, 6 blue; 10 blue, 2 red, 8 green; 16 green, 4 blue, 1 red
+
+game: Game 36
+game:  17 green, 6 blue; 10 blue, 2 red, 8 green; 16 green, 4 blue, 1 red
+
+round:  17 green, 6 blue
+cubes:  17 green 0
+value: 17
+active value: 17
+value: green
+comparing green
+it's green! 17 
+invalid round
+Game 37: 9 green, 7 red, 8 blue; 1 blue, 10 red; 10 red, 4 blue, 11 green; 8 green, 11 red, 5 blue
+
+game: Game 37
+game:  9 green, 7 red, 8 blue; 1 blue, 10 red; 10 red, 4 blue, 11 green; 8 green, 11 red, 5 blue
+
+round:  9 green, 7 red, 8 blue
+cubes:  9 green 0
+value: 9
+active value: 9
+value: green
+comparing green
+it's green! 9 
+cubes:  7 red 2
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+round:  1 blue, 10 red
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  10 red 2
+value: 10
+active value: 10
+value: red
+comparing red
+it's red! 10
+round:  10 red, 4 blue, 11 green
+cubes:  10 red 2
+value: 10
+active value: 10
+value: red
+comparing red
+it's red! 10
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  11 green 2
+value: 11
+active value: 11
+value: green
+comparing green
+it's green! 11 
+round:  8 green, 11 red, 5 blue
+
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  11 red 2
+value: 11
+active value: 11
+value: red
+comparing red
+it's red! 11
+cubes:  5 blue
+ 2
+value: 5
+active value: 5
+value: blue
+
+comparing blue
+
+it's blue! 5
+valid round
+Game 38: 8 green, 11 blue; 13 green, 2 blue; 7 blue, 2 red, 8 green
+
+game: Game 38
+game:  8 green, 11 blue; 13 green, 2 blue; 7 blue, 2 red, 8 green
+
+round:  8 green, 11 blue
+cubes:  8 green 0
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  11 blue 2
+value: 11
+active value: 11
+value: blue
+comparing blue
+it's blue! 11
+round:  13 green, 2 blue
+cubes:  13 green 2
+value: 13
+active value: 13
+value: green
+comparing green
+it's green! 13 
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  7 blue, 2 red, 8 green
+
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  8 green
+ 2
+value: 8
+active value: 8
+value: green
+
+comparing green
+
+it's green! 8 
+valid round
+Game 39: 14 red, 2 green; 2 red, 3 green, 1 blue; 4 red, 5 green, 4 blue; 2 blue, 3 red, 1 green; 17 red, 2 blue; 5 green, 3 red
+
+game: Game 39
+game:  14 red, 2 green; 2 red, 3 green, 1 blue; 4 red, 5 green, 4 blue; 2 blue, 3 red, 1 green; 17 red, 2 blue; 5 green, 3 red
+
+round:  14 red, 2 green
+cubes:  14 red 0
+value: 14
+active value: 14
+value: red
+comparing red
+it's red! 14
+invalid round
+Game 40: 10 blue; 2 red, 9 blue; 5 red, 1 green, 2 blue; 8 blue, 2 red; 6 blue, 2 red; 4 red, 2 blue, 1 green
+
+game: Game 40
+game:  10 blue; 2 red, 9 blue; 5 red, 1 green, 2 blue; 8 blue, 2 red; 6 blue, 2 red; 4 red, 2 blue, 1 green
+
+round:  10 blue
+cubes:  10 blue 0
+value: 10
+active value: 10
+value: blue
+comparing blue
+it's blue! 10
+round:  2 red, 9 blue
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  9 blue 2
+value: 9
+active value: 9
+value: blue
+comparing blue
+it's blue! 9
+round:  5 red, 1 green, 2 blue
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  8 blue, 2 red
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+round:  6 blue, 2 red
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+round:  4 red, 2 blue, 1 green
+
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  1 green
+ 2
+value: 1
+active value: 1
+value: green
+
+comparing green
+
+it's green! 1 
+valid round
+Game 41: 2 blue, 3 red, 2 green; 4 green, 2 red, 11 blue; 11 blue, 3 red, 1 green; 1 red, 6 green, 1 blue; 5 red, 7 green
+
+game: Game 41
+game:  2 blue, 3 red, 2 green; 4 green, 2 red, 11 blue; 11 blue, 3 red, 1 green; 1 red, 6 green, 1 blue; 5 red, 7 green
+
+round:  2 blue, 3 red, 2 green
+cubes:  2 blue 0
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+round:  4 green, 2 red, 11 blue
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  11 blue 2
+value: 11
+active value: 11
+value: blue
+comparing blue
+it's blue! 11
+round:  11 blue, 3 red, 1 green
+cubes:  11 blue 2
+value: 11
+active value: 11
+value: blue
+comparing blue
+it's blue! 11
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+round:  1 red, 6 green, 1 blue
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  5 red, 7 green
+
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  7 green
+ 2
+value: 7
+active value: 7
+value: green
+
+comparing green
+
+it's green! 7 
+valid round
+Game 42: 1 blue, 14 green, 1 red; 2 blue, 2 green; 5 green, 2 blue, 8 red
+
+game: Game 42
+game:  1 blue, 14 green, 1 red; 2 blue, 2 green; 5 green, 2 blue, 8 red
+
+round:  1 blue, 14 green, 1 red
+cubes:  1 blue 0
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  14 green 2
+value: 14
+active value: 14
+value: green
+comparing green
+it's green! 14 
+invalid round
+Game 43: 15 red, 5 blue, 5 green; 15 green, 15 red, 1 blue; 4 blue, 13 green, 13 red; 3 red, 16 green; 2 red, 3 green, 2 blue
+
+game: Game 43
+game:  15 red, 5 blue, 5 green; 15 green, 15 red, 1 blue; 4 blue, 13 green, 13 red; 3 red, 16 green; 2 red, 3 green, 2 blue
+
+round:  15 red, 5 blue, 5 green
+cubes:  15 red 0
+value: 15
+active value: 15
+value: red
+comparing red
+it's red! 15
+invalid round
+Game 44: 8 green, 8 blue; 9 blue, 9 green; 9 green, 3 blue; 8 green, 3 blue; 8 blue, 2 green; 9 blue, 1 red, 8 green
+
+game: Game 44
+game:  8 green, 8 blue; 9 blue, 9 green; 9 green, 3 blue; 8 green, 3 blue; 8 blue, 2 green; 9 blue, 1 red, 8 green
+
+round:  8 green, 8 blue
+cubes:  8 green 0
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+round:  9 blue, 9 green
+cubes:  9 blue 2
+value: 9
+active value: 9
+value: blue
+comparing blue
+it's blue! 9
+cubes:  9 green 2
+value: 9
+active value: 9
+value: green
+comparing green
+it's green! 9 
+round:  9 green, 3 blue
+cubes:  9 green 2
+value: 9
+active value: 9
+value: green
+comparing green
+it's green! 9 
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  8 green, 3 blue
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  8 blue, 2 green
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+round:  9 blue, 1 red, 8 green
+
+cubes:  9 blue 2
+value: 9
+active value: 9
+value: blue
+comparing blue
+it's blue! 9
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  8 green
+ 2
+value: 8
+active value: 8
+value: green
+
+comparing green
+
+it's green! 8 
+valid round
+Game 45: 4 red, 4 blue, 4 green; 5 red, 2 green, 9 blue; 8 blue, 5 red, 3 green; 4 red, 3 blue; 5 red, 5 green, 1 blue
+
+game: Game 45
+game:  4 red, 4 blue, 4 green; 5 red, 2 green, 9 blue; 8 blue, 5 red, 3 green; 4 red, 3 blue; 5 red, 5 green, 1 blue
+
+round:  4 red, 4 blue, 4 green
+cubes:  4 red 0
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+round:  5 red, 2 green, 9 blue
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  9 blue 2
+value: 9
+active value: 9
+value: blue
+comparing blue
+it's blue! 9
+round:  8 blue, 5 red, 3 green
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+round:  4 red, 3 blue
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  5 red, 5 green, 1 blue
+
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  1 blue
+ 2
+value: 1
+active value: 1
+value: blue
+
+comparing blue
+
+it's blue! 1
+valid round
+Game 46: 1 blue, 9 green, 2 red; 2 blue, 9 green, 1 red; 8 green, 3 red
+
+game: Game 46
+game:  1 blue, 9 green, 2 red; 2 blue, 9 green, 1 red; 8 green, 3 red
+
+round:  1 blue, 9 green, 2 red
+cubes:  1 blue 0
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  9 green 2
+value: 9
+active value: 9
+value: green
+comparing green
+it's green! 9 
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+round:  2 blue, 9 green, 1 red
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  9 green 2
+value: 9
+active value: 9
+value: green
+comparing green
+it's green! 9 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  8 green, 3 red
+
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  3 red
+ 2
+value: 3
+active value: 3
+value: red
+
+comparing red
+
+it's red! 3
+valid round
+Game 47: 2 green, 4 blue, 10 red; 4 green, 5 blue, 1 red; 10 green, 13 red, 6 blue; 4 green, 4 blue, 12 red; 15 red, 1 blue, 4 green
+
+game: Game 47
+game:  2 green, 4 blue, 10 red; 4 green, 5 blue, 1 red; 10 green, 13 red, 6 blue; 4 green, 4 blue, 12 red; 15 red, 1 blue, 4 green
+
+round:  2 green, 4 blue, 10 red
+cubes:  2 green 0
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  10 red 2
+value: 10
+active value: 10
+value: red
+comparing red
+it's red! 10
+round:  4 green, 5 blue, 1 red
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  10 green, 13 red, 6 blue
+cubes:  10 green 2
+value: 10
+active value: 10
+value: green
+comparing green
+it's green! 10 
+cubes:  13 red 2
+value: 13
+active value: 13
+value: red
+comparing red
+it's red! 13
+invalid round
+Game 48: 1 red, 7 green; 2 blue, 4 green, 5 red; 5 red, 3 green, 1 blue; 8 green
+
+game: Game 48
+game:  1 red, 7 green; 2 blue, 4 green, 5 red; 5 red, 3 green, 1 blue; 8 green
+
+round:  1 red, 7 green
+cubes:  1 red 0
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  7 green 2
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+round:  2 blue, 4 green, 5 red
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+round:  5 red, 3 green, 1 blue
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  8 green
+
+cubes:  8 green
+ 2
+value: 8
+active value: 8
+value: green
+
+comparing green
+
+it's green! 8 
+valid round
+Game 49: 3 blue, 4 green, 3 red; 6 red, 5 green, 5 blue; 1 blue, 4 green, 3 red; 6 red, 1 blue, 5 green; 4 red, 3 green, 5 blue; 2 green, 3 blue, 1 red
+
+game: Game 49
+game:  3 blue, 4 green, 3 red; 6 red, 5 green, 5 blue; 1 blue, 4 green, 3 red; 6 red, 1 blue, 5 green; 4 red, 3 green, 5 blue; 2 green, 3 blue, 1 red
+
+round:  3 blue, 4 green, 3 red
+cubes:  3 blue 0
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  6 red, 5 green, 5 blue
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+round:  1 blue, 4 green, 3 red
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  6 red, 1 blue, 5 green
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+round:  4 red, 3 green, 5 blue
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+round:  2 green, 3 blue, 1 red
+
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  1 red
+ 2
+value: 1
+active value: 1
+value: red
+
+comparing red
+
+it's red! 1
+valid round
+Game 50: 1 green, 5 red, 6 blue; 3 red, 2 green; 1 red, 1 green, 6 blue; 1 green, 7 red, 3 blue
+
+game: Game 50
+game:  1 green, 5 red, 6 blue; 3 red, 2 green; 1 red, 1 green, 6 blue; 1 green, 7 red, 3 blue
+
+round:  1 green, 5 red, 6 blue
+cubes:  1 green 0
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+round:  3 red, 2 green
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+round:  1 red, 1 green, 6 blue
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+round:  1 green, 7 red, 3 blue
+
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  7 red 2
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+cubes:  3 blue
+ 2
+value: 3
+active value: 3
+value: blue
+
+comparing blue
+
+it's blue! 3
+valid round
+Game 51: 7 green, 8 blue; 6 blue, 6 red, 4 green; 6 green, 1 blue; 8 blue, 5 red, 4 green
+
+game: Game 51
+game:  7 green, 8 blue; 6 blue, 6 red, 4 green; 6 green, 1 blue; 8 blue, 5 red, 4 green
+
+round:  7 green, 8 blue
+cubes:  7 green 0
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+round:  6 blue, 6 red, 4 green
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+round:  6 green, 1 blue
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  8 blue, 5 red, 4 green
+
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  4 green
+ 2
+value: 4
+active value: 4
+value: green
+
+comparing green
+
+it's green! 4 
+valid round
+Game 52: 7 red, 3 blue, 6 green; 7 green, 5 red, 4 blue; 6 red, 4 blue
+
+game: Game 52
+game:  7 red, 3 blue, 6 green; 7 green, 5 red, 4 blue; 6 red, 4 blue
+
+round:  7 red, 3 blue, 6 green
+cubes:  7 red 0
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+round:  7 green, 5 red, 4 blue
+cubes:  7 green 2
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+round:  6 red, 4 blue
+
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  4 blue
+ 2
+value: 4
+active value: 4
+value: blue
+
+comparing blue
+
+it's blue! 4
+valid round
+Game 53: 12 blue, 1 red, 5 green; 4 green, 2 blue, 5 red; 5 red, 4 green; 1 green, 3 blue, 5 red; 5 blue, 2 red, 5 green
+
+game: Game 53
+game:  12 blue, 1 red, 5 green; 4 green, 2 blue, 5 red; 5 red, 4 green; 1 green, 3 blue, 5 red; 5 blue, 2 red, 5 green
+
+round:  12 blue, 1 red, 5 green
+cubes:  12 blue 0
+value: 12
+active value: 12
+value: blue
+comparing blue
+it's blue! 12
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+round:  4 green, 2 blue, 5 red
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+round:  5 red, 4 green
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+round:  1 green, 3 blue, 5 red
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+round:  5 blue, 2 red, 5 green
+
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  5 green
+ 2
+value: 5
+active value: 5
+value: green
+
+comparing green
+
+it's green! 5 
+valid round
+Game 54: 15 green, 12 red; 11 red, 3 green, 2 blue; 3 blue, 6 green; 3 red, 1 blue, 5 green; 17 red, 7 green
+
+game: Game 54
+game:  15 green, 12 red; 11 red, 3 green, 2 blue; 3 blue, 6 green; 3 red, 1 blue, 5 green; 17 red, 7 green
+
+round:  15 green, 12 red
+cubes:  15 green 0
+value: 15
+active value: 15
+value: green
+comparing green
+it's green! 15 
+invalid round
+Game 55: 7 green, 10 red, 7 blue; 8 red, 4 blue, 11 green; 9 green, 11 red
+
+game: Game 55
+game:  7 green, 10 red, 7 blue; 8 red, 4 blue, 11 green; 9 green, 11 red
+
+round:  7 green, 10 red, 7 blue
+cubes:  7 green 0
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  10 red 2
+value: 10
+active value: 10
+value: red
+comparing red
+it's red! 10
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+round:  8 red, 4 blue, 11 green
+cubes:  8 red 2
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  11 green 2
+value: 11
+active value: 11
+value: green
+comparing green
+it's green! 11 
+round:  9 green, 11 red
+
+cubes:  9 green 2
+value: 9
+active value: 9
+value: green
+comparing green
+it's green! 9 
+cubes:  11 red
+ 2
+value: 11
+active value: 11
+value: red
+
+comparing red
+
+it's red! 11
+valid round
+Game 56: 7 green, 3 blue, 5 red; 6 green, 1 red, 4 blue; 4 green, 2 red; 5 blue, 6 red, 8 green
+
+game: Game 56
+game:  7 green, 3 blue, 5 red; 6 green, 1 red, 4 blue; 4 green, 2 red; 5 blue, 6 red, 8 green
+
+round:  7 green, 3 blue, 5 red
+cubes:  7 green 0
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+round:  6 green, 1 red, 4 blue
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+round:  4 green, 2 red
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+round:  5 blue, 6 red, 8 green
+
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  8 green
+ 2
+value: 8
+active value: 8
+value: green
+
+comparing green
+
+it's green! 8 
+valid round
+Game 57: 1 green, 3 red, 3 blue; 5 blue, 2 red, 2 green; 1 green, 5 blue
+
+game: Game 57
+game:  1 green, 3 red, 3 blue; 5 blue, 2 red, 2 green; 1 green, 5 blue
+
+round:  1 green, 3 red, 3 blue
+cubes:  1 green 0
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  5 blue, 2 red, 2 green
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+round:  1 green, 5 blue
+
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  5 blue
+ 2
+value: 5
+active value: 5
+value: blue
+
+comparing blue
+
+it's blue! 5
+valid round
+Game 58: 4 red, 2 green; 13 green, 4 red, 1 blue; 12 green, 4 blue
+
+game: Game 58
+game:  4 red, 2 green; 13 green, 4 red, 1 blue; 12 green, 4 blue
+
+round:  4 red, 2 green
+cubes:  4 red 0
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+round:  13 green, 4 red, 1 blue
+cubes:  13 green 2
+value: 13
+active value: 13
+value: green
+comparing green
+it's green! 13 
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  12 green, 4 blue
+
+cubes:  12 green 2
+value: 12
+active value: 12
+value: green
+comparing green
+it's green! 12 
+cubes:  4 blue
+ 2
+value: 4
+active value: 4
+value: blue
+
+comparing blue
+
+it's blue! 4
+valid round
+Game 59: 4 red, 4 green; 5 blue, 1 green, 20 red; 11 red, 3 green, 15 blue; 5 blue, 7 red, 3 green; 18 blue, 4 green, 19 red
+
+game: Game 59
+game:  4 red, 4 green; 5 blue, 1 green, 20 red; 11 red, 3 green, 15 blue; 5 blue, 7 red, 3 green; 18 blue, 4 green, 19 red
+
+round:  4 red, 4 green
+cubes:  4 red 0
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+round:  5 blue, 1 green, 20 red
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  20 red 2
+value: 20
+active value: 20
+value: red
+comparing red
+it's red! 20
+invalid round
+Game 60: 5 blue, 8 red, 4 green; 4 blue, 12 green, 19 red; 3 blue, 1 green, 17 red; 1 green, 3 blue; 2 green, 6 blue, 3 red
+
+game: Game 60
+game:  5 blue, 8 red, 4 green; 4 blue, 12 green, 19 red; 3 blue, 1 green, 17 red; 1 green, 3 blue; 2 green, 6 blue, 3 red
+
+round:  5 blue, 8 red, 4 green
+cubes:  5 blue 0
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  8 red 2
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+round:  4 blue, 12 green, 19 red
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  12 green 2
+value: 12
+active value: 12
+value: green
+comparing green
+it's green! 12 
+cubes:  19 red 2
+value: 19
+active value: 19
+value: red
+comparing red
+it's red! 19
+invalid round
+Game 61: 3 red, 7 blue, 12 green; 7 red, 1 green, 6 blue; 6 red, 2 green, 18 blue; 14 blue, 5 red, 1 green
+
+game: Game 61
+game:  3 red, 7 blue, 12 green; 7 red, 1 green, 6 blue; 6 red, 2 green, 18 blue; 14 blue, 5 red, 1 green
+
+round:  3 red, 7 blue, 12 green
+cubes:  3 red 0
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  12 green 2
+value: 12
+active value: 12
+value: green
+comparing green
+it's green! 12 
+round:  7 red, 1 green, 6 blue
+cubes:  7 red 2
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+round:  6 red, 2 green, 18 blue
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  18 blue 2
+value: 18
+active value: 18
+value: blue
+comparing blue
+it's blue! 18
+invalid round
+Game 62: 1 red, 2 blue; 1 green, 3 red; 1 green, 9 blue, 4 red
+
+game: Game 62
+game:  1 red, 2 blue; 1 green, 3 red; 1 green, 9 blue, 4 red
+
+round:  1 red, 2 blue
+cubes:  1 red 0
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  1 green, 3 red
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  1 green, 9 blue, 4 red
+
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  9 blue 2
+value: 9
+active value: 9
+value: blue
+comparing blue
+it's blue! 9
+cubes:  4 red
+ 2
+value: 4
+active value: 4
+value: red
+
+comparing red
+
+it's red! 4
+valid round
+Game 63: 6 green, 4 blue, 17 red; 2 green, 2 blue, 12 red; 10 green, 9 blue, 13 red; 15 red, 8 green, 5 blue
+
+game: Game 63
+game:  6 green, 4 blue, 17 red; 2 green, 2 blue, 12 red; 10 green, 9 blue, 13 red; 15 red, 8 green, 5 blue
+
+round:  6 green, 4 blue, 17 red
+cubes:  6 green 0
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  17 red 2
+value: 17
+active value: 17
+value: red
+comparing red
+it's red! 17
+invalid round
+Game 64: 4 green, 7 blue, 10 red; 3 green, 4 blue, 12 red; 6 green, 6 red, 8 blue; 4 green, 9 red, 1 blue; 2 blue, 15 red, 15 green
+
+game: Game 64
+game:  4 green, 7 blue, 10 red; 3 green, 4 blue, 12 red; 6 green, 6 red, 8 blue; 4 green, 9 red, 1 blue; 2 blue, 15 red, 15 green
+
+round:  4 green, 7 blue, 10 red
+cubes:  4 green 0
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  10 red 2
+value: 10
+active value: 10
+value: red
+comparing red
+it's red! 10
+round:  3 green, 4 blue, 12 red
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  12 red 2
+value: 12
+active value: 12
+value: red
+comparing red
+it's red! 12
+round:  6 green, 6 red, 8 blue
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+round:  4 green, 9 red, 1 blue
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  9 red 2
+value: 9
+active value: 9
+value: red
+comparing red
+it's red! 9
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  2 blue, 15 red, 15 green
+
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  15 red 2
+value: 15
+active value: 15
+value: red
+comparing red
+it's red! 15
+invalid round
+Game 65: 5 green, 4 blue, 7 red; 6 green, 7 blue, 8 red; 1 green, 7 red; 1 blue, 10 red, 8 green
+
+game: Game 65
+game:  5 green, 4 blue, 7 red; 6 green, 7 blue, 8 red; 1 green, 7 red; 1 blue, 10 red, 8 green
+
+round:  5 green, 4 blue, 7 red
+cubes:  5 green 0
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  7 red 2
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+round:  6 green, 7 blue, 8 red
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  8 red 2
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+round:  1 green, 7 red
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  7 red 2
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+round:  1 blue, 10 red, 8 green
+
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  10 red 2
+value: 10
+active value: 10
+value: red
+comparing red
+it's red! 10
+cubes:  8 green
+ 2
+value: 8
+active value: 8
+value: green
+
+comparing green
+
+it's green! 8 
+valid round
+Game 66: 5 green, 5 blue, 2 red; 3 red; 1 red, 1 blue, 16 green; 2 blue, 1 green; 8 green, 1 blue, 3 red; 14 green, 4 red
+
+game: Game 66
+game:  5 green, 5 blue, 2 red; 3 red; 1 red, 1 blue, 16 green; 2 blue, 1 green; 8 green, 1 blue, 3 red; 14 green, 4 red
+
+round:  5 green, 5 blue, 2 red
+cubes:  5 green 0
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+round:  3 red
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  1 red, 1 blue, 16 green
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  16 green 2
+value: 16
+active value: 16
+value: green
+comparing green
+it's green! 16 
+invalid round
+Game 67: 12 blue, 7 green; 7 blue, 7 green, 1 red; 12 blue, 1 green, 6 red
+
+game: Game 67
+game:  12 blue, 7 green; 7 blue, 7 green, 1 red; 12 blue, 1 green, 6 red
+
+round:  12 blue, 7 green
+cubes:  12 blue 0
+value: 12
+active value: 12
+value: blue
+comparing blue
+it's blue! 12
+cubes:  7 green 2
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+round:  7 blue, 7 green, 1 red
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  7 green 2
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  12 blue, 1 green, 6 red
+
+cubes:  12 blue 2
+value: 12
+active value: 12
+value: blue
+comparing blue
+it's blue! 12
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  6 red
+ 2
+value: 6
+active value: 6
+value: red
+
+comparing red
+
+it's red! 6
+valid round
+Game 68: 2 blue, 8 red, 1 green; 9 blue, 3 green, 12 red; 14 blue, 15 red, 6 green
+
+game: Game 68
+game:  2 blue, 8 red, 1 green; 9 blue, 3 green, 12 red; 14 blue, 15 red, 6 green
+
+round:  2 blue, 8 red, 1 green
+cubes:  2 blue 0
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  8 red 2
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+round:  9 blue, 3 green, 12 red
+cubes:  9 blue 2
+value: 9
+active value: 9
+value: blue
+comparing blue
+it's blue! 9
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  12 red 2
+value: 12
+active value: 12
+value: red
+comparing red
+it's red! 12
+round:  14 blue, 15 red, 6 green
+
+cubes:  14 blue 2
+value: 14
+active value: 14
+value: blue
+comparing blue
+it's blue! 14
+cubes:  15 red 2
+value: 15
+active value: 15
+value: red
+comparing red
+it's red! 15
+invalid round
+Game 69: 7 red, 1 blue; 11 green, 2 blue, 13 red; 3 blue, 13 green, 3 red; 1 blue, 10 red, 8 green; 15 red, 2 blue, 19 green
+
+game: Game 69
+game:  7 red, 1 blue; 11 green, 2 blue, 13 red; 3 blue, 13 green, 3 red; 1 blue, 10 red, 8 green; 15 red, 2 blue, 19 green
+
+round:  7 red, 1 blue
+cubes:  7 red 0
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  11 green, 2 blue, 13 red
+cubes:  11 green 2
+value: 11
+active value: 11
+value: green
+comparing green
+it's green! 11 
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  13 red 2
+value: 13
+active value: 13
+value: red
+comparing red
+it's red! 13
+invalid round
+Game 70: 10 green, 10 red, 12 blue; 7 red, 15 blue, 2 green; 8 blue, 9 green
+
+game: Game 70
+game:  10 green, 10 red, 12 blue; 7 red, 15 blue, 2 green; 8 blue, 9 green
+
+round:  10 green, 10 red, 12 blue
+cubes:  10 green 0
+value: 10
+active value: 10
+value: green
+comparing green
+it's green! 10 
+cubes:  10 red 2
+value: 10
+active value: 10
+value: red
+comparing red
+it's red! 10
+cubes:  12 blue 2
+value: 12
+active value: 12
+value: blue
+comparing blue
+it's blue! 12
+round:  7 red, 15 blue, 2 green
+cubes:  7 red 2
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+cubes:  15 blue 2
+value: 15
+active value: 15
+value: blue
+comparing blue
+it's blue! 15
+invalid round
+Game 71: 1 blue, 2 green, 13 red; 7 red; 1 green, 5 red
+
+game: Game 71
+game:  1 blue, 2 green, 13 red; 7 red; 1 green, 5 red
+
+round:  1 blue, 2 green, 13 red
+cubes:  1 blue 0
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  13 red 2
+value: 13
+active value: 13
+value: red
+comparing red
+it's red! 13
+invalid round
+Game 72: 2 red, 1 blue, 11 green; 1 red, 2 blue, 18 green; 5 red, 3 blue, 3 green
+
+game: Game 72
+game:  2 red, 1 blue, 11 green; 1 red, 2 blue, 18 green; 5 red, 3 blue, 3 green
+
+round:  2 red, 1 blue, 11 green
+cubes:  2 red 0
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  11 green 2
+value: 11
+active value: 11
+value: green
+comparing green
+it's green! 11 
+round:  1 red, 2 blue, 18 green
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  18 green 2
+value: 18
+active value: 18
+value: green
+comparing green
+it's green! 18 
+invalid round
+Game 73: 13 red, 3 blue, 4 green; 3 green, 17 red, 1 blue; 6 blue, 4 green, 4 red; 13 red, 7 blue
+
+game: Game 73
+game:  13 red, 3 blue, 4 green; 3 green, 17 red, 1 blue; 6 blue, 4 green, 4 red; 13 red, 7 blue
+
+round:  13 red, 3 blue, 4 green
+cubes:  13 red 0
+value: 13
+active value: 13
+value: red
+comparing red
+it's red! 13
+invalid round
+Game 74: 1 blue, 3 red; 13 blue, 5 red, 2 green; 1 red, 8 green, 11 blue; 4 blue, 1 green, 5 red; 11 blue, 8 red, 6 green; 8 red, 3 green, 4 blue
+
+game: Game 74
+game:  1 blue, 3 red; 13 blue, 5 red, 2 green; 1 red, 8 green, 11 blue; 4 blue, 1 green, 5 red; 11 blue, 8 red, 6 green; 8 red, 3 green, 4 blue
+
+round:  1 blue, 3 red
+cubes:  1 blue 0
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  13 blue, 5 red, 2 green
+cubes:  13 blue 2
+value: 13
+active value: 13
+value: blue
+comparing blue
+it's blue! 13
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+round:  1 red, 8 green, 11 blue
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  11 blue 2
+value: 11
+active value: 11
+value: blue
+comparing blue
+it's blue! 11
+round:  4 blue, 1 green, 5 red
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+round:  11 blue, 8 red, 6 green
+cubes:  11 blue 2
+value: 11
+active value: 11
+value: blue
+comparing blue
+it's blue! 11
+cubes:  8 red 2
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+round:  8 red, 3 green, 4 blue
+
+cubes:  8 red 2
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  4 blue
+ 2
+value: 4
+active value: 4
+value: blue
+
+comparing blue
+
+it's blue! 4
+valid round
+Game 75: 7 blue, 4 green, 1 red; 3 green, 4 blue; 5 green, 2 red, 3 blue; 6 blue, 3 red, 5 green
+
+game: Game 75
+game:  7 blue, 4 green, 1 red; 3 green, 4 blue; 5 green, 2 red, 3 blue; 6 blue, 3 red, 5 green
+
+round:  7 blue, 4 green, 1 red
+cubes:  7 blue 0
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  3 green, 4 blue
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+round:  5 green, 2 red, 3 blue
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  6 blue, 3 red, 5 green
+
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  5 green
+ 2
+value: 5
+active value: 5
+value: green
+
+comparing green
+
+it's green! 5 
+valid round
+Game 76: 9 green, 1 blue, 4 red; 6 red, 9 green, 3 blue; 2 red, 6 green, 2 blue; 5 green; 6 green, 2 red, 3 blue; 6 blue, 5 red, 5 green
+
+game: Game 76
+game:  9 green, 1 blue, 4 red; 6 red, 9 green, 3 blue; 2 red, 6 green, 2 blue; 5 green; 6 green, 2 red, 3 blue; 6 blue, 5 red, 5 green
+
+round:  9 green, 1 blue, 4 red
+cubes:  9 green 0
+value: 9
+active value: 9
+value: green
+comparing green
+it's green! 9 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+round:  6 red, 9 green, 3 blue
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  9 green 2
+value: 9
+active value: 9
+value: green
+comparing green
+it's green! 9 
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  2 red, 6 green, 2 blue
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  5 green
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+round:  6 green, 2 red, 3 blue
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  6 blue, 5 red, 5 green
+
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  5 green
+ 2
+value: 5
+active value: 5
+value: green
+
+comparing green
+
+it's green! 5 
+valid round
+Game 77: 2 green, 2 red; 1 blue, 6 red, 2 green; 4 green, 3 red, 2 blue; 2 blue, 1 green, 1 red
+
+game: Game 77
+game:  2 green, 2 red; 1 blue, 6 red, 2 green; 4 green, 3 red, 2 blue; 2 blue, 1 green, 1 red
+
+round:  2 green, 2 red
+cubes:  2 green 0
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+round:  1 blue, 6 red, 2 green
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+round:  4 green, 3 red, 2 blue
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  2 blue, 1 green, 1 red
+
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  1 red
+ 2
+value: 1
+active value: 1
+value: red
+
+comparing red
+
+it's red! 1
+valid round
+Game 78: 2 green, 10 red, 2 blue; 6 green, 2 red, 2 blue; 2 blue, 9 red, 6 green; 11 red, 6 green; 3 red, 8 green; 1 blue, 6 green, 1 red
+
+game: Game 78
+game:  2 green, 10 red, 2 blue; 6 green, 2 red, 2 blue; 2 blue, 9 red, 6 green; 11 red, 6 green; 3 red, 8 green; 1 blue, 6 green, 1 red
+
+round:  2 green, 10 red, 2 blue
+cubes:  2 green 0
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  10 red 2
+value: 10
+active value: 10
+value: red
+comparing red
+it's red! 10
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  6 green, 2 red, 2 blue
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  2 blue, 9 red, 6 green
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  9 red 2
+value: 9
+active value: 9
+value: red
+comparing red
+it's red! 9
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+round:  11 red, 6 green
+cubes:  11 red 2
+value: 11
+active value: 11
+value: red
+comparing red
+it's red! 11
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+round:  3 red, 8 green
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+round:  1 blue, 6 green, 1 red
+
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  1 red
+ 2
+value: 1
+active value: 1
+value: red
+
+comparing red
+
+it's red! 1
+valid round
+Game 79: 3 blue, 8 green, 13 red; 3 blue, 2 red, 3 green; 10 red, 6 green, 4 blue; 11 red, 1 blue, 3 green
+
+game: Game 79
+game:  3 blue, 8 green, 13 red; 3 blue, 2 red, 3 green; 10 red, 6 green, 4 blue; 11 red, 1 blue, 3 green
+
+round:  3 blue, 8 green, 13 red
+cubes:  3 blue 0
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  13 red 2
+value: 13
+active value: 13
+value: red
+comparing red
+it's red! 13
+invalid round
+Game 80: 3 green, 5 red, 9 blue; 3 red, 5 blue, 2 green; 5 green, 6 red, 2 blue
+
+game: Game 80
+game:  3 green, 5 red, 9 blue; 3 red, 5 blue, 2 green; 5 green, 6 red, 2 blue
+
+round:  3 green, 5 red, 9 blue
+cubes:  3 green 0
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  9 blue 2
+value: 9
+active value: 9
+value: blue
+comparing blue
+it's blue! 9
+round:  3 red, 5 blue, 2 green
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+round:  5 green, 6 red, 2 blue
+
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  2 blue
+ 2
+value: 2
+active value: 2
+value: blue
+
+comparing blue
+
+it's blue! 2
+valid round
+Game 81: 2 green, 7 blue, 3 red; 9 blue, 3 red; 1 green, 17 blue, 2 red
+
+game: Game 81
+game:  2 green, 7 blue, 3 red; 9 blue, 3 red; 1 green, 17 blue, 2 red
+
+round:  2 green, 7 blue, 3 red
+cubes:  2 green 0
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  9 blue, 3 red
+cubes:  9 blue 2
+value: 9
+active value: 9
+value: blue
+comparing blue
+it's blue! 9
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  1 green, 17 blue, 2 red
+
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  17 blue 2
+value: 17
+active value: 17
+value: blue
+comparing blue
+it's blue! 17
+invalid round
+Game 82: 4 green, 8 blue, 7 red; 10 blue, 1 green, 10 red; 7 blue, 4 green, 5 red
+
+game: Game 82
+game:  4 green, 8 blue, 7 red; 10 blue, 1 green, 10 red; 7 blue, 4 green, 5 red
+
+round:  4 green, 8 blue, 7 red
+cubes:  4 green 0
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  7 red 2
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+round:  10 blue, 1 green, 10 red
+cubes:  10 blue 2
+value: 10
+active value: 10
+value: blue
+comparing blue
+it's blue! 10
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  10 red 2
+value: 10
+active value: 10
+value: red
+comparing red
+it's red! 10
+round:  7 blue, 4 green, 5 red
+
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  5 red
+ 2
+value: 5
+active value: 5
+value: red
+
+comparing red
+
+it's red! 5
+valid round
+Game 83: 7 green, 4 blue, 3 red; 15 blue, 3 red, 14 green; 9 blue, 4 red, 7 green
+
+game: Game 83
+game:  7 green, 4 blue, 3 red; 15 blue, 3 red, 14 green; 9 blue, 4 red, 7 green
+
+round:  7 green, 4 blue, 3 red
+cubes:  7 green 0
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  15 blue, 3 red, 14 green
+cubes:  15 blue 2
+value: 15
+active value: 15
+value: blue
+comparing blue
+it's blue! 15
+invalid round
+Game 84: 5 red, 5 green; 16 blue, 1 red, 7 green; 17 blue, 11 red
+
+game: Game 84
+game:  5 red, 5 green; 16 blue, 1 red, 7 green; 17 blue, 11 red
+
+round:  5 red, 5 green
+cubes:  5 red 0
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+round:  16 blue, 1 red, 7 green
+cubes:  16 blue 2
+value: 16
+active value: 16
+value: blue
+comparing blue
+it's blue! 16
+invalid round
+Game 85: 7 red, 1 green, 11 blue; 13 blue, 5 green, 6 red; 11 blue, 2 green, 8 red; 5 blue, 17 red, 4 green; 12 blue, 2 green, 8 red
+
+game: Game 85
+game:  7 red, 1 green, 11 blue; 13 blue, 5 green, 6 red; 11 blue, 2 green, 8 red; 5 blue, 17 red, 4 green; 12 blue, 2 green, 8 red
+
+round:  7 red, 1 green, 11 blue
+cubes:  7 red 0
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  11 blue 2
+value: 11
+active value: 11
+value: blue
+comparing blue
+it's blue! 11
+round:  13 blue, 5 green, 6 red
+cubes:  13 blue 2
+value: 13
+active value: 13
+value: blue
+comparing blue
+it's blue! 13
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+round:  11 blue, 2 green, 8 red
+cubes:  11 blue 2
+value: 11
+active value: 11
+value: blue
+comparing blue
+it's blue! 11
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  8 red 2
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+round:  5 blue, 17 red, 4 green
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+cubes:  17 red 2
+value: 17
+active value: 17
+value: red
+comparing red
+it's red! 17
+invalid round
+Game 86: 3 red, 8 blue, 2 green; 15 green, 15 blue, 2 red; 18 blue, 2 red, 11 green
+
+game: Game 86
+game:  3 red, 8 blue, 2 green; 15 green, 15 blue, 2 red; 18 blue, 2 red, 11 green
+
+round:  3 red, 8 blue, 2 green
+cubes:  3 red 0
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+round:  15 green, 15 blue, 2 red
+cubes:  15 green 2
+value: 15
+active value: 15
+value: green
+comparing green
+it's green! 15 
+invalid round
+Game 87: 1 blue; 6 red, 6 green; 1 blue, 9 red, 3 green
+
+game: Game 87
+game:  1 blue; 6 red, 6 green; 1 blue, 9 red, 3 green
+
+round:  1 blue
+cubes:  1 blue 0
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  6 red, 6 green
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+round:  1 blue, 9 red, 3 green
+
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  9 red 2
+value: 9
+active value: 9
+value: red
+comparing red
+it's red! 9
+cubes:  3 green
+ 2
+value: 3
+active value: 3
+value: green
+
+comparing green
+
+it's green! 3 
+valid round
+Game 88: 10 green, 2 blue, 1 red; 7 blue, 1 green, 1 red; 9 green, 4 blue; 8 green, 1 red, 7 blue
+
+game: Game 88
+game:  10 green, 2 blue, 1 red; 7 blue, 1 green, 1 red; 9 green, 4 blue; 8 green, 1 red, 7 blue
+
+round:  10 green, 2 blue, 1 red
+cubes:  10 green 0
+value: 10
+active value: 10
+value: green
+comparing green
+it's green! 10 
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  7 blue, 1 green, 1 red
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  9 green, 4 blue
+cubes:  9 green 2
+value: 9
+active value: 9
+value: green
+comparing green
+it's green! 9 
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+round:  8 green, 1 red, 7 blue
+
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  7 blue
+ 2
+value: 7
+active value: 7
+value: blue
+
+comparing blue
+
+it's blue! 7
+valid round
+Game 89: 6 green, 2 red, 2 blue; 5 red, 3 blue, 3 green; 3 blue, 4 red, 1 green; 5 red, 4 green, 5 blue; 4 blue, 6 green, 3 red; 3 red, 1 green
+
+game: Game 89
+game:  6 green, 2 red, 2 blue; 5 red, 3 blue, 3 green; 3 blue, 4 red, 1 green; 5 red, 4 green, 5 blue; 4 blue, 6 green, 3 red; 3 red, 1 green
+
+round:  6 green, 2 red, 2 blue
+cubes:  6 green 0
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  5 red, 3 blue, 3 green
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+round:  3 blue, 4 red, 1 green
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+round:  5 red, 4 green, 5 blue
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+round:  4 blue, 6 green, 3 red
+cubes:  4 blue 2
+value: 4
+active value: 4
+value: blue
+comparing blue
+it's blue! 4
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+round:  3 red, 1 green
+
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  1 green
+ 2
+value: 1
+active value: 1
+value: green
+
+comparing green
+
+it's green! 1 
+valid round
+Game 90: 1 green, 6 blue; 1 blue, 1 red; 2 blue, 3 green; 7 green, 6 blue; 1 red, 7 green, 6 blue
+
+game: Game 90
+game:  1 green, 6 blue; 1 blue, 1 red; 2 blue, 3 green; 7 green, 6 blue; 1 red, 7 green, 6 blue
+
+round:  1 green, 6 blue
+cubes:  1 green 0
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+round:  1 blue, 1 red
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  2 blue, 3 green
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+round:  7 green, 6 blue
+cubes:  7 green 2
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  6 blue 2
+value: 6
+active value: 6
+value: blue
+comparing blue
+it's blue! 6
+round:  1 red, 7 green, 6 blue
+
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  7 green 2
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  6 blue
+ 2
+value: 6
+active value: 6
+value: blue
+
+comparing blue
+
+it's blue! 6
+valid round
+Game 91: 8 blue, 14 green, 5 red; 8 red, 6 green; 4 red, 7 blue, 14 green; 4 blue, 7 green; 9 blue, 7 red; 14 green, 7 blue, 4 red
+
+game: Game 91
+game:  8 blue, 14 green, 5 red; 8 red, 6 green; 4 red, 7 blue, 14 green; 4 blue, 7 green; 9 blue, 7 red; 14 green, 7 blue, 4 red
+
+round:  8 blue, 14 green, 5 red
+cubes:  8 blue 0
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  14 green 2
+value: 14
+active value: 14
+value: green
+comparing green
+it's green! 14 
+invalid round
+Game 92: 11 blue, 8 green, 6 red; 11 blue, 1 red, 11 green; 10 blue, 19 green, 5 red
+
+game: Game 92
+game:  11 blue, 8 green, 6 red; 11 blue, 1 red, 11 green; 10 blue, 19 green, 5 red
+
+round:  11 blue, 8 green, 6 red
+cubes:  11 blue 0
+value: 11
+active value: 11
+value: blue
+comparing blue
+it's blue! 11
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+round:  11 blue, 1 red, 11 green
+cubes:  11 blue 2
+value: 11
+active value: 11
+value: blue
+comparing blue
+it's blue! 11
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  11 green 2
+value: 11
+active value: 11
+value: green
+comparing green
+it's green! 11 
+round:  10 blue, 19 green, 5 red
+
+cubes:  10 blue 2
+value: 10
+active value: 10
+value: blue
+comparing blue
+it's blue! 10
+cubes:  19 green 2
+value: 19
+active value: 19
+value: green
+comparing green
+it's green! 19 
+invalid round
+Game 93: 5 green, 1 red, 7 blue; 8 green, 14 blue, 2 red; 5 red, 14 blue, 7 green
+
+game: Game 93
+game:  5 green, 1 red, 7 blue; 8 green, 14 blue, 2 red; 5 red, 14 blue, 7 green
+
+round:  5 green, 1 red, 7 blue
+cubes:  5 green 0
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+round:  8 green, 14 blue, 2 red
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  14 blue 2
+value: 14
+active value: 14
+value: blue
+comparing blue
+it's blue! 14
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+round:  5 red, 14 blue, 7 green
+
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  14 blue 2
+value: 14
+active value: 14
+value: blue
+comparing blue
+it's blue! 14
+cubes:  7 green
+ 2
+value: 7
+active value: 7
+value: green
+
+comparing green
+
+it's green! 7 
+valid round
+Game 94: 2 blue, 6 red, 3 green; 4 red, 2 green, 2 blue; 4 red, 1 blue, 1 green
+
+game: Game 94
+game:  2 blue, 6 red, 3 green; 4 red, 2 green, 2 blue; 4 red, 1 blue, 1 green
+
+round:  2 blue, 6 red, 3 green
+cubes:  2 blue 0
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  3 green 2
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+round:  4 red, 2 green, 2 blue
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  4 red, 1 blue, 1 green
+
+cubes:  4 red 2
+value: 4
+active value: 4
+value: red
+comparing red
+it's red! 4
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  1 green
+ 2
+value: 1
+active value: 1
+value: green
+
+comparing green
+
+it's green! 1 
+valid round
+Game 95: 9 red, 15 green, 1 blue; 2 blue, 10 red, 18 green; 3 red, 10 green; 10 red, 17 green, 2 blue; 3 blue, 13 green, 1 red; 2 red, 2 blue, 6 green
+
+game: Game 95
+game:  9 red, 15 green, 1 blue; 2 blue, 10 red, 18 green; 3 red, 10 green; 10 red, 17 green, 2 blue; 3 blue, 13 green, 1 red; 2 red, 2 blue, 6 green
+
+round:  9 red, 15 green, 1 blue
+cubes:  9 red 0
+value: 9
+active value: 9
+value: red
+comparing red
+it's red! 9
+cubes:  15 green 2
+value: 15
+active value: 15
+value: green
+comparing green
+it's green! 15 
+invalid round
+Game 96: 8 green, 1 blue; 1 blue, 1 red, 11 green; 2 green, 15 blue; 1 red, 2 green, 1 blue
+
+game: Game 96
+game:  8 green, 1 blue; 1 blue, 1 red, 11 green; 2 green, 15 blue; 1 red, 2 green, 1 blue
+
+round:  8 green, 1 blue
+cubes:  8 green 0
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+round:  1 blue, 1 red, 11 green
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  11 green 2
+value: 11
+active value: 11
+value: green
+comparing green
+it's green! 11 
+round:  2 green, 15 blue
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  15 blue 2
+value: 15
+active value: 15
+value: blue
+comparing blue
+it's blue! 15
+invalid round
+Game 97: 3 green, 3 blue; 5 green, 3 blue, 1 red; 5 green, 1 red, 3 blue; 1 green, 1 red, 2 blue; 2 green, 2 blue, 3 red
+
+game: Game 97
+game:  3 green, 3 blue; 5 green, 3 blue, 1 red; 5 green, 1 red, 3 blue; 1 green, 1 red, 2 blue; 2 green, 2 blue, 3 red
+
+round:  3 green, 3 blue
+cubes:  3 green 0
+value: 3
+active value: 3
+value: green
+comparing green
+it's green! 3 
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  5 green, 3 blue, 1 red
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+round:  5 green, 1 red, 3 blue
+cubes:  5 green 2
+value: 5
+active value: 5
+value: green
+comparing green
+it's green! 5 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+round:  1 green, 1 red, 2 blue
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  1 red 2
+value: 1
+active value: 1
+value: red
+comparing red
+it's red! 1
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+round:  2 green, 2 blue, 3 red
+
+cubes:  2 green 2
+value: 2
+active value: 2
+value: green
+comparing green
+it's green! 2 
+cubes:  2 blue 2
+value: 2
+active value: 2
+value: blue
+comparing blue
+it's blue! 2
+cubes:  3 red
+ 2
+value: 3
+active value: 3
+value: red
+
+comparing red
+
+it's red! 3
+valid round
+Game 98: 6 red, 6 green, 5 blue; 19 red, 7 green; 6 green, 8 blue, 4 red; 10 green, 4 red
+
+game: Game 98
+game:  6 red, 6 green, 5 blue; 19 red, 7 green; 6 green, 8 blue, 4 red; 10 green, 4 red
+
+round:  6 red, 6 green, 5 blue
+cubes:  6 red 0
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+cubes:  5 blue 2
+value: 5
+active value: 5
+value: blue
+comparing blue
+it's blue! 5
+round:  19 red, 7 green
+cubes:  19 red 2
+value: 19
+active value: 19
+value: red
+comparing red
+it's red! 19
+invalid round
+Game 99: 9 red, 8 blue, 10 green; 3 blue, 7 green, 8 red; 6 red, 12 blue; 8 blue, 8 green, 2 red; 16 green, 14 blue, 5 red
+
+game: Game 99
+game:  9 red, 8 blue, 10 green; 3 blue, 7 green, 8 red; 6 red, 12 blue; 8 blue, 8 green, 2 red; 16 green, 14 blue, 5 red
+
+round:  9 red, 8 blue, 10 green
+cubes:  9 red 0
+value: 9
+active value: 9
+value: red
+comparing red
+it's red! 9
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  10 green 2
+value: 10
+active value: 10
+value: green
+comparing green
+it's green! 10 
+round:  3 blue, 7 green, 8 red
+cubes:  3 blue 2
+value: 3
+active value: 3
+value: blue
+comparing blue
+it's blue! 3
+cubes:  7 green 2
+value: 7
+active value: 7
+value: green
+comparing green
+it's green! 7 
+cubes:  8 red 2
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+round:  6 red, 12 blue
+cubes:  6 red 2
+value: 6
+active value: 6
+value: red
+comparing red
+it's red! 6
+cubes:  12 blue 2
+value: 12
+active value: 12
+value: blue
+comparing blue
+it's blue! 12
+round:  8 blue, 8 green, 2 red
+cubes:  8 blue 2
+value: 8
+active value: 8
+value: blue
+comparing blue
+it's blue! 8
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+round:  16 green, 14 blue, 5 red
+
+cubes:  16 green 2
+value: 16
+active value: 16
+value: green
+comparing green
+it's green! 16 
+invalid round
+Game 100: 8 red, 13 green; 5 red, 4 green; 7 blue, 3 red, 8 green; 13 blue, 6 green; 1 blue, 8 green, 7 red; 2 red, 1 green, 16 blue
+
+game: Game 100
+game:  8 red, 13 green; 5 red, 4 green; 7 blue, 3 red, 8 green; 13 blue, 6 green; 1 blue, 8 green, 7 red; 2 red, 1 green, 16 blue
+
+round:  8 red, 13 green
+cubes:  8 red 0
+value: 8
+active value: 8
+value: red
+comparing red
+it's red! 8
+cubes:  13 green 2
+value: 13
+active value: 13
+value: green
+comparing green
+it's green! 13 
+round:  5 red, 4 green
+cubes:  5 red 2
+value: 5
+active value: 5
+value: red
+comparing red
+it's red! 5
+cubes:  4 green 2
+value: 4
+active value: 4
+value: green
+comparing green
+it's green! 4 
+round:  7 blue, 3 red, 8 green
+cubes:  7 blue 2
+value: 7
+active value: 7
+value: blue
+comparing blue
+it's blue! 7
+cubes:  3 red 2
+value: 3
+active value: 3
+value: red
+comparing red
+it's red! 3
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+round:  13 blue, 6 green
+cubes:  13 blue 2
+value: 13
+active value: 13
+value: blue
+comparing blue
+it's blue! 13
+cubes:  6 green 2
+value: 6
+active value: 6
+value: green
+comparing green
+it's green! 6 
+round:  1 blue, 8 green, 7 red
+cubes:  1 blue 2
+value: 1
+active value: 1
+value: blue
+comparing blue
+it's blue! 1
+cubes:  8 green 2
+value: 8
+active value: 8
+value: green
+comparing green
+it's green! 8 
+cubes:  7 red 2
+value: 7
+active value: 7
+value: red
+comparing red
+it's red! 7
+round:  2 red, 1 green, 16 blue
+
+cubes:  2 red 2
+value: 2
+active value: 2
+value: red
+comparing red
+it's red! 2
+cubes:  1 green 2
+value: 1
+active value: 1
+value: green
+comparing green
+it's green! 1 
+cubes:  16 blue
+ 2
+value: 16
+active value: 16
+value: blue
+
+comparing blue
+
+it's blue! 16
+invalid round
+
+
+game: 
+
+valid round
+2495
